@@ -47,6 +47,9 @@ gem 'bootsnap', require: false
 #  hide our Apikey from other users
  gem "dotenv-rails"
 
+#  cloudinary cloud immages hosting
+ gem "cloudinary"
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 gem 'sassc-rails'
